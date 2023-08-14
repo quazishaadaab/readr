@@ -50,7 +50,7 @@ function Landing() {
 
 
 
-                    <h1 className='text-7xl  text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-[700] tracking-tighter  mb-[3%] 2xl:ml-[45%]'> READr</h1>
+                    <h1 className='text-7xl  text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-[700] tracking-tighter  mb-[3%] 2xl:ml-[45%]'> READr Sucks</h1>
 
                     <div className="text-xl font-[200] text-gray-700  2xl:ml-[30%] tracking-tight">READr is the first audiobook platform that provides multi-voice actors for each character in a novel</div>
 
